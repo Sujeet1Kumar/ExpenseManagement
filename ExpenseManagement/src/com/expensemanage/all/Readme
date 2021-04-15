@@ -1,0 +1,11 @@
+Main Class is ExpenseManager.java so run the whole project from that java file.
+
+Add external jar "rs2xml.jar" if "import net.proteanit.sql.DbUtils;" showing error
+
+Using of Mysql database, So it must be installed.
+
+Every database and table will self create don't worrying about that.
+
+This App support different user expenses without showing to each other.
+
+Using 3 jar file Mysql and JCalender (in Maven) rs2xml (in build path).
